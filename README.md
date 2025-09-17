@@ -1,4 +1,5 @@
-A simple web-based Task Scheduler that allows users to create, manage, and organize tasks. This project helps users keep track of their work and deadlines in an easy-to-use interface.
+TASK SCHEDULER
+A web-based Task Scheduler that allows users to create, manage, and organize tasks. This project helps users keep track of their work and deadlines in an easy-to-use interface.
 
 Features
 
